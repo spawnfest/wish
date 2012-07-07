@@ -1,8 +1,17 @@
 <html>
 <head>
 	<title>wislistis, list your wishes</title>
+
+	<style type="text/css">
+		@import url("css/main.css");
+	</style>
 </head>
 <body>
-	hello
+	hello 2
+
+	<script type="text/javascript" src="js/jquery-1.7.2.js"></script>
+	<script type="text/javascript" src="js/backbone.js"></script>
+	<script type="text/javascript" src="js/main.js"></script>	
+
 </body>
 </html>
