@@ -8,12 +8,21 @@
 </head>
 <body>
 <div id="container">
-	<div id="header">
 
+	<div id="header">
+		<div id="appMenu">
+			<div id="logo"><a href="#">wislistis</a></div>
+			<ul>
+				<li><a href="#">your lists</a></li>
+				<li><a href="#">sign in</a></li>		
+			</ul>
+		</div>
 	</div>
+
 	<div id="content">
 
 	</div>
+
 	<div id="footer">
 		Copyright &#xa9 Site name, 2012
 	</div>
